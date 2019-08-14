@@ -5,7 +5,7 @@ This is a curation of modules teaching various topics on data science and machin
 # Overview
 
 | Module | Title | Description |
-|---|---|---|---|---|
-|   |   |   |   |   |
-|   |   |   |   |   |
-|   |   |   |   |   |
+|---|---|---|
+|   |   |   |   
+|   |   |   |
+|   |   |   |
