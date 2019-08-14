@@ -9,20 +9,20 @@ In each module we rely on teaching core data science concepts through a security
 | Module | Title |
 |---|---|
 | 00 | [Intro to Security Plus Data Science](https://github.com/inp2/Security-Plus-Data-Science/blob/master/Module_00/Module_00_Introduction.ipynb) | 
-| 01 | Intro to Jupyter Notebook |
-| 02 | Intro to Python and Libraries |
-| 03 | What is Data? |
-| 04 | What is Data Visualization? |
-| 05 | Exploratory Data Analysis |
-| 06 | Network Analysis |
-| 07 | Time-Series Analysis |
-| 08 | Security Plus Data Science Competition |
-| 09 | Intro to Machien Learning |
-| 10 | Anomaly Detection with Unsupervised Learning |
-| 11 | Phishing Website Detection |
-| 12 | Network Intrusion Detection |
-| 13 | Network Intrusion Detection Contd |
-| 14 | Malware Detection |
+| 01 | [Intro to Jupyter Notebook](https://github.com/inp2/Security-Plus-Data-Science/blob/master/Module_01/01_Module_Intro_Jupyter_Notebooks.ipynb) |
+| 02 | [Intro to Python and Libraries](https://github.com/inp2/Security-Plus-Data-Science/tree/master/Module_02) |
+| 03 | [What is Data?](https://github.com/inp2/Security-Plus-Data-Science/blob/master/Module_03/Module_03_Data.ipynb) |
+| 04 | [What is Data Visualization?](https://github.com/inp2/Security-Plus-Data-Science/blob/master/Module_04/Module_04_Data_Viz.ipynb) |
+| 05 | [Exploratory Data Analysis](https://github.com/inp2/Security-Plus-Data-Science/blob/master/Module_05/Module_05_explore.ipynb) |
+| 06 | [Network Analysis](https://github.com/inp2/Security-Plus-Data-Science/tree/master/Module_06) |
+| 07 | [Time-Series Analysis](https://github.com/inp2/Security-Plus-Data-Science/blob/master/Module_07/Module_07_time.ipynb) |
+| 08 | [Security Plus Data Science Competition 1](https://github.com/inp2/Security-Plus-Data-Science/blob/master/Module_08/Competition_01.ipynb) |
+| 09 | [Intro to Machine Learning](https://github.com/inp2/Security-Plus-Data-Science/blob/master/Module_09/Module_09.ipynb) |
+| 10 | [Anomaly Detection with Unsupervised Learning](https://github.com/inp2/Security-Plus-Data-Science/blob/master/Module_10/Module_10_01.ipynb) |
+| 11 | [Phishing Website Detection](https://github.com/inp2/Security-Plus-Data-Science/tree/master/Module_11) |
+| 12 | [Network Intrusion Detection](https://github.com/inp2/Security-Plus-Data-Science/tree/master/Module_12) |
+| 13 | [Network Intrusion Detection Contd](https://github.com/inp2/Security-Plus-Data-Science/tree/master/Module_13) |
+| 14 | [Security Plus Data Science Competition 2](https://github.com/inp2/Security-Plus-Data-Science/blob/master/Module_14/Competition_02.ipynb) |
 
 # Modules In Progress
 
