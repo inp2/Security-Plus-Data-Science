@@ -8,7 +8,7 @@ In each module we rely on teaching core data science concepts through a security
 
 | Module | Title |
 |---|---|
-| 00 | Intro to Cybersecurity Plus Data Science | 
+| 00 | Intro to Security Plus Data Science | 
 | 01 | Intro to Jupyter Notebook |
 | 02 | Intro to Python and Libraries |
 | 03 | What is Data? |
