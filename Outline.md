@@ -50,4 +50,46 @@ Objectives:
 * Draw networks
 * Explore graph-theoretic properties
 
-## 
+## [Module 07: Time-Series Analysis](https://github.com/inp2/Security-Plus-Data-Science/tree/master/Module_07)
+
+Objectives:
+* Analyze time series data
+* Extract statistics and other characteristics of the data
+
+## [Module 08: Competition](https://github.com/inp2/Security-Plus-Data-Science/tree/master/Module_08)
+
+Objective:
+* Rely on data science techniques to complete a security challenge
+
+## [Module 09: Introduction to Machine Learning & Artifical Intelligence](https://github.com/inp2/Security-Plus-Data-Science/tree/master/Module_09)
+
+Objective:
+* Introduce artifical intelligence
+* Introduce machine learning
+* Constract artificial intelligence and machine learning
+
+## [Module 10: Anomaly Detection with Unsupervised Learning](https://github.com/inp2/Security-Plus-Data-Science/tree/master/Module_10)
+
+Objective:
+* Introduce anomaly detection
+* Explore unsupervised learning in the space of anomaly detection
+
+## [Module 11: Phishing Website Detection](https://github.com/inp2/Security-Plus-Data-Science/tree/master/Module_11)
+
+Objective:
+* Explore the full machine learning process in terms of phishing website detection
+
+## [Module 12: Network Intrusion Detection](https://github.com/inp2/Security-Plus-Data-Science/tree/master/Module_12)
+
+Objective:
+* Explore the full machine learning process in terms of network intrusion detection
+
+## [Module 13: Fraud Detection](https://github.com/inp2/Security-Plus-Data-Science/blob/master/Module_13/Module_13.ipynb)
+
+Objective:
+* Explore the full machine learning process in terms of fraud detection
+
+## [Module 14: Competition](http://localhost:8888/notebooks/Module_14/Competition_02.ipynb)
+
+Objective:
+* Rely on data science techniques to perform malware detection

@@ -21,11 +21,11 @@ In each module we rely on teaching core data science concepts through a security
 | 10 | [Anomaly Detection with Unsupervised Learning](https://github.com/inp2/Security-Plus-Data-Science/blob/master/Module_10/Module_10_01.ipynb) |
 | 11 | [Phishing Website Detection](https://github.com/inp2/Security-Plus-Data-Science/tree/master/Module_11) |
 | 12 | [Network Intrusion Detection](https://github.com/inp2/Security-Plus-Data-Science/tree/master/Module_12) |
-| 13 | [Network Intrusion Detection Contd](https://github.com/inp2/Security-Plus-Data-Science/tree/master/Module_13) |
+| 13 | [Fraud Detection](https://github.com/inp2/Security-Plus-Data-Science/tree/master/Module_13) |
 | 14 | [Security Plus Data Science Competition 2](https://github.com/inp2/Security-Plus-Data-Science/blob/master/Module_14/Competition_02.ipynb) |
 
 # Modules In Progress
-
+* Explain areas of security +ml (ueba, spam detection, malware identification, anomaly detection, risk scoring, entity classification, data exploration) - https://cdn-images-1.medium.com/max/1600/1*a-qa3jgOFsHyABv6U0zaXA.png
 * Feature Engineering
 * Generative Adversarial Network (GAN) to generate adversarial malware examples. which are able to bypass black-box machine learning based detection models (https://github.com/yanminglai/Malware-GAN)
 * Malware APK Detection with Bayes (https://github.com/Yonahwang/Machine-Learning-Based-Malware-Detection-Engine/tree/master/Malware%20APK%20Detection)
