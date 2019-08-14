@@ -25,3 +25,8 @@ In each module we rely on teaching core data science concepts through a security
 | 14 | Malware Detection |
 
 # Modules In Progress
+
+* Feature Engineering
+* Generative Adversarial Network (GAN) to generate adversarial malware examples. which are able to bypass black-box machine learning based detection models (https://github.com/yanminglai/Malware-GAN)
+* Malware APK Detection with Bayes (https://github.com/Yonahwang/Machine-Learning-Based-Malware-Detection-Engine/tree/master/Malware%20APK%20Detection)
+* Machine learning and penetration testing
