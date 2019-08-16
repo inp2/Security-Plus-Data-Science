@@ -22,8 +22,8 @@ Objectives
 ## [Module 03: What is Data?](https://github.com/inp2/Security-Plus-Data-Science/tree/master/Module_03)
 
 Objectives:
-* Describe categorical variables
-* Describe continuous variables
+* Describe quantitative variables
+* Describe qualitative variables
 * Discuss methodologies for each variable type
 
 ## [Module 04: What is Data Visualization?](https://github.com/inp2/Security-Plus-Data-Science/blob/master/Module_04/Module_04_Data_Viz.ipynb)
