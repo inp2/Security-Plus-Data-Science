@@ -31,16 +31,19 @@ Introduction/Review Jupyter Notebooks
 Introduction/Review Kaggle
 What is Data?
 Data Visual Analysis
-Exploratory Data Analysis
+Data Science Process
+Network Analysis
 Time Series Analysis
 Competition 1
 
 Day 2:
-Network Analysis
-Machine Learning
+Introduction to Machine Learning
+Anomaly Detection with Unsupervised Learning
+Phishing Website Detection
+Network Intrusion Detection
 Competition 2
 
-Bio: Imani Palmer is a recent Ph.D. graduate from the Department of
+Bio: Imani Palmer is a Ph.D. graduate from the Department of
 Computer Science at the University of Illinois. She has real-world
 experience in analyzing various datasets from digital forensics to
 network traffic. She has spoken at many security conferences on

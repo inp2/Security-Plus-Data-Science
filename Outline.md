@@ -36,11 +36,14 @@ Objectives:
   * Distribution
 * Review six principals of graphical integrity
 
-## [Module 05: Exploratory Data Analysis](https://github.com/inp2/Security-Plus-Data-Science/tree/master/Module_05)
+## [Module 05: The Data Science Process](https://github.com/inp2/Security-Plus-Data-Science/tree/master/Module_05)
 
 Objectives:
-* Determine the objectives of EDA
-* Figure how to perform a good EDA
+* Outline the data science process
+  * Collect data
+  * Explore data
+  * Model data
+  * Communicate/Visualize data 
 
 ## [Module 06: Network Analysis](https://github.com/inp2/Security-Plus-Data-Science/tree/master/Module_06)
 
