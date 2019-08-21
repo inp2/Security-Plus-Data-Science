@@ -26,7 +26,7 @@ Objectives:
 * Describe qualitative variables
 * Discuss methodologies for each variable type
 
-## [Module 04: What is Data Visualization?](https://github.com/inp2/Security-Plus-Data-Science/blob/master/Module_04/Module_04_Data_Viz.ipynb)
+## [Module 04: What is Data Visualization?](https://github.com/inp2/Security-Plus-Data-Science/blob/master/Module_04/)
 
 Objectives:
 * Review the four basic methods of data visualization
@@ -87,12 +87,12 @@ Objective:
 Objective:
 * Explore the full machine learning process in terms of network intrusion detection
 
-## [Module 13: Fraud Detection](https://github.com/inp2/Security-Plus-Data-Science/blob/master/Module_13/Module_13.ipynb)
+## [Module 13: Fraud Detection](https://github.com/inp2/Security-Plus-Data-Science/blob/master/Module_13/)
 
 Objective:
 * Explore the full machine learning process in terms of fraud detection
 
-## [Module 14: Competition](http://localhost:8888/notebooks/Module_14/Competition_02.ipynb)
+## [Module 14: Competition](htps://github.com/inp2/Security-Plus-Data-Science/tree/master/Module_14)
 
 Objective:
 * Rely on data science techniques to perform malware detection
@@ -101,3 +101,8 @@ Objective:
 
 Objective:
 * Explore natural language processing with spam detection
+
+## [Module 16: Generating Adversial Mawlare](https://github.com/inp2/Security-Plus-Data-Science/tree/master/Module_16)
+
+Objective:
+* Explore generative adervsial network to create malware

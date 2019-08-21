@@ -46,6 +46,7 @@ Competition 2
 
 Day 3:
 Spam Detection
+Generating Adversial Malware 
 
 Bio: Imani Palmer is a Ph.D. graduate from the Department of
 Computer Science at the University of Illinois. She has real-world
