@@ -96,3 +96,8 @@ Objective:
 
 Objective:
 * Rely on data science techniques to perform malware detection
+
+## [Module 15: Spam Detection](https://github.com/inp2/Security-Plus-Data-Science/tree/master/Module_15)
+
+Objective:
+* Explore natural language processing with spam detection

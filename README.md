@@ -23,7 +23,8 @@ In each module we rely on teaching core data science concepts through a security
 | 12 | [Network Intrusion Detection](https://github.com/inp2/Security-Plus-Data-Science/tree/master/Module_12) |
 | 13 | [Fraud Detection](https://github.com/inp2/Security-Plus-Data-Science/tree/master/Module_13) |
 | 14 | [Security Plus Data Science Competition 2](https://github.com/inp2/Security-Plus-Data-Science/blob/master/Module_14/Competition_02.ipynb) |
-| 15 | [Spam Detection]()
+| 15 | [Spam Detection](https://github.com/inp2/Security-Plus-Data-Science/tree/master/Module_15) | 
+
 # Modules In Progress
 * Explain areas of security +ml (ueba, spam detection, malware identification, anomaly detection, risk scoring, entity classification, data exploration) - https://cdn-images-1.medium.com/max/1600/1*a-qa3jgOFsHyABv6U0zaXA.png
 * Feature Engineering

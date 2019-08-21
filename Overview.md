@@ -43,6 +43,10 @@ Phishing Website Detection
 Network Intrusion Detection
 Competition 2
 
+
+Day 3:
+Spam Detection
+
 Bio: Imani Palmer is a Ph.D. graduate from the Department of
 Computer Science at the University of Illinois. She has real-world
 experience in analyzing various datasets from digital forensics to
