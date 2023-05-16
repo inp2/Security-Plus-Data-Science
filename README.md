@@ -25,6 +25,7 @@ In each module we rely on teaching core data science concepts through a security
 | 14 | [Security Plus Data Science Competition 2](https://github.com/inp2/Security-Plus-Data-Science/blob/master/Module_14/Competition_02.ipynb) |
 | 15 | [Spam Detection](https://github.com/inp2/Security-Plus-Data-Science/tree/master/Module_15) | 
 | 16 | [Generative Adversial Malware](https://github.com/inp2/Security-Plus-Data-Science/tree/Module_16)
+| 17 | [Large Language Models](https://github.com/inp2/Security-Plus-Data-Science/tree/Module_17) |
 
 # Modules In Progress
 * Explain areas of security +ml (ueba, spam detection, malware identification, anomaly detection, risk scoring, entity classification, data exploration) - https://cdn-images-1.medium.com/max/1600/1*a-qa3jgOFsHyABv6U0zaXA.png
